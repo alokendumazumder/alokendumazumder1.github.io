@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Piyush Tiwary
+      value: Alokendu Mazumder
     - name: Date of Birth
-      value: 31st January 2000
+      value: 27th August 1997
     - name: Languages
-      value: English, Hindi, Bhojpuri, Marathi (limited proficiency)
+      value: English, Hindi, Bengali, Gujarati (Limited Proficiency)
 
 - title: Education
   type: time_table
@@ -15,42 +15,42 @@
       institution: Indian Institute of Science, Bangalore, India
       year: 2021 - present
       description:
-        - <u>Supervisor:</u> <a href="https://sites.google.com/view/prathosh/home">Prof. Prathosh A.P.</a> #[Prof. Prathosh A.P.](https://sites.google.com/view/prathosh/home) 
-        - <u>CGPA:</u> 9.15/10
-        - <u>Courses:</u> Stochastic Models & Applications (10/10), Pattern Recognition & Neural Network (10/10), Reinforcement Learning (10/10), Advanced Image Processing (9/10), Information Theory (9/10), Computational Methods in Optimization (8/10), Foundations of Data Science (8/10), Measure Theoretic Probability Theory (Audit), Stochastic Approximation Algorithms (Audit).
+        - <u>Supervisor:</u> <a href="https://www.punitrathore.com/e">Prof. Punit Rathore.</a> #[Prof. Prathosh A.P.](https://sites.google.com/view/prathosh/home) 
+        - <u>CGPA:</u> 8.70/10
+        - <u>Courses:</u> Stochastic Models & Applications (10/10), Pattern Recognition & Neural Network (10/10), Advanced Image Processing (9/10), Computational Methods in Optimization (8/10).
         # - description3 
           # contents:
           #   - Sub-description 1.
           #   - Sub-description 2.
-    - title: Bachelor of Technology (Electrical Engineering)
-      institution: Indian Institute of Technology Patna (IIT Patna), India
-      year: 2017 - 2021
+    - title: Master of Technology (Computer Science & Engineering)
+      institution: Indian Institute of Technology Jammu (IIT Jammu), India
+      year: 2019 - 2021
       description:
-        - <u>Supervisor:</u> <a href="https://sites.google.com/site/ksudhiriitk/">Prof. Sudhir Kumar</a>
-        - <u>CGPA:</u> 8.53/10
-        - <u>Thesis:</u> Mitigating Device Heterogeneity for Indoor Localization
+        - <u>Supervisor:</u> <a href="https://www.iitjammu.ac.in/electrical_engineering/faculty-list/~satyadevahlawat">Prof. (Dr.) Satyadev Ahlawat</a>
+        - <u>CGPA:</u> 9.02/10
+        - <u>Thesis:</u> Anomaly Detection in Dynamic Graphs.
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: SDE Intern
-      institution: CapitalVia Global Research Limited - Investment Advisor
-      year: Summer 2020
+    - title: Data Scientist Intern
+      institution: Ericsson Global AI Accelerator
+      year: Winter 2021
       description:
-        - <u>Work:</u> Developing deployable parameter optimization framework for trading strategies using back-testing results on previous data.
+        - <u>Work:</u> Developed an anomaly detection framework specifically for dynamic graphs.
     - title: Research Intern
-      institution: International Institute of Information Technology Bangalore, India
-      year: Summer 2019
+      institution: Indian Institute of Technology Bombay, India
+      year: Winter 2020
       description:
-        - <u>Mentor:</u> Prof. Manish Gupta 
-        - <u>Work:</u> Speaker Diarization using UIS-RNN
+        - <u>Mentor:</u> <a href="https://www.ee.iitb.ac.in/~viren/">Prof. (Dr.) Virendra Singh</a>
+        - <u>Work:</u> Horizon Detection in Images suing Machine Learning.
 
-    - title: Research Intern
-      institution: Indian Institute of Technology Patna, India
-      year: Summer 2018
-      description:
-        - <u>Mentor:</u> Prof. Sudhir Kumar 
-        - <u>Work:</u> Location tracking in faded IoT Environment
+#     - title: Research Intern
+#       institution: Indian Institute of Technology Patna, India
+#       year: Summer 2018
+#       description:
+#         - <u>Mentor:</u> Prof. Sudhir Kumar 
+#         - <u>Work:</u> Location tracking in faded IoT Environment
 
 
 # - title: Open Source Projects
@@ -74,25 +74,25 @@
 - title: Services
   type: list
   contents:
-    - <u>Reviewer:</u> CVPR 2022, NeurIPS 2023, AAAI 2023
-    - <u>Volunteer:</u> IEEE SPCOM 2022, NeurIPS 2021
+#     - <u>Reviewer:</u> CVPR 2022, NeurIPS 2023, AAAI 2023
+    - <u>Volunteer:</u> 6th Cyber Physical Systems Symposium 2022, NeurIPS 2021
 
 - title: Achievements
   type: list
   contents:
     - Recipient of prestigious <b>Prime Minister’s Research Fellowship</b> in August-2022 cycle.
-    - Received <b>"The Best Poster Presentation Award"</b> at COMSNETS-2021.
-    - Secured <b>All India Rank 4880</b> in JEE Advanced 2017 among 150,000 candidates.
+#     - Received <b>"The Best Poster Presentation Award"</b> at COMSNETS-2021.
+    - Secured <b>All India Rank 5922</b> in GATE 2019 among 10,47,82 candidates.
 
 - title: Positions of Responsibility
   type: time_table
   contents:
     - year: 2020
       items:
-        - Badminton Coordinator of IIT Patna
-        - Advisor of NJACK (Computer Science Club of IIT Patna)
+        - Chairman of IEEE ComSoc, IIT Jammu Students Branch.
+#         - Advisor of NJACK (Computer Science Club of IIT Patna)
     - year: 2019
       items:
-        - Badminton Coordinator of IIT Patna
-        - Coordinator, Events and Operation of Celesta (Technical Fest of IIT Patna)
-        - Coordinator, Technical Affairs of Anwesha (Cultural Fest of IIT Patna)
+        - TA for UG(CSE) core course, Probability and Stocahastic Process (Aug 2019 - Dec 2019).
+#         - Coordinator, Events and Operation of Celesta (Technical Fest of IIT Patna)
+#         - Coordinator, Technical Affairs of Anwesha (Cultural Fest of IIT Patna)
